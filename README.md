@@ -17,26 +17,19 @@ Bu projede aşağıdaki teknolojiler kullanılmıştır:
 
 ![1](https://i.hizliresim.com/qptiwy5.png)
 
-![2](https://github.com/hizirgalip53/My-Portfolio-/blob/main/pics/2.png?raw=true)
+![2](https://i.hizliresim.com/qptiwy5.png)
 
-![3](https://github.com/hizirgalip53/My-Portfolio-/blob/main/pics/3.png?raw=true)
+![3](https://i.hizliresim.com/44ppqjr.png)
 
-![4](https://github.com/hizirgalip53/My-Portfolio-/blob/main/pics/4.png?raw=true)
+![4](https://i.hizliresim.com/njkkoun.png)
 
-![5](https://github.com/hizirgalip53/My-Portfolio-/blob/main/pics/5.png?raw=true)
+![5](https://i.hizliresim.com/4235xgz.png)
 
-![6](https://github.com/hizirgalip53/My-Portfolio-/blob/main/pics/6.png?raw=true)
+![6](https://i.hizliresim.com/tcm0qdp.png)
 
-![7](https://github.com/hizirgalip53/My-Portfolio-/blob/main/pics/7.png?raw=true)
+![7](https://i.hizliresim.com/o2tqpft.png)
 
-![8](https://github.com/hizirgalip53/My-Portfolio-/blob/main/pics/8.png?raw=true)
-
-![9](https://github.com/hizirgalip53/My-Portfolio-/blob/main/pics/9.png?raw=true)
-
-![10](https://github.com/hizirgalip53/My-Portfolio-/blob/main/pics/10.png?raw=true)
-
-![11](https://github.com/hizirgalip53/My-Portfolio-/blob/main/pics/11.png?raw=true)
-
+![8](https://i.hizliresim.com/9dw1stj.png)
 
 ---
 Projemiz kolayca kullanıma sunulmuştur. Bu web sitesi dinamik bir şekilde listeleniyor böyle olması da kullanıcıların 
