@@ -1,0 +1,12 @@
+﻿@model List<TatilSeyahatSitesi.Models.Siniflar.Blog>
+<div class="padding">
+    <h4>Bu Yıl Gezdiğim En Güzel 10 Yer</h4>
+    <ul class="list list-pad">
+        @{int i = 0;}
+        @foreach (var item in Model)
+        {
+            <li class="list-bg"><span>@{i++;} @i.</span><a href="/Blog/BlogDetay/@item.ID">@item.Baslik</a></li>
+        }
+    </ul>
+    <a href="/Blog/Index/" class="link1">Tüm Blogları Görün</a>
+</div>

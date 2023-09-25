@@ -1,0 +1,28 @@
+﻿@model List<TatilSeyahatSitesi.Models.Siniflar.Blog>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Blog Listesi</h2>
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Başlık</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+        <th>Detaylar</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Baslik</td>
+            <td><a href="/Admin/DeleteBlog/@item.ID" class="btn btn-outline-danger">Sil</a></td>
+            <td><a href="/Admin/UpdateBlog/@item.ID" class="btn btn-outline-warning">Güncelle</a></td>
+            <td><a href="/Blog/Index/" class="btn btn-outline-secondary">Siteyi Gör</a></td>
+        </tr>
+    }
+</table>
+<a href="/Admin/AddBlog/" class="btn btn-outline-success">Yeni Blog Ekle</a>

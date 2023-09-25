@@ -1,0 +1,21 @@
+﻿@model List<TatilSeyahatSitesi.Models.Siniflar.Contact>
+<div class="col-lg-7 mt-lg-0 mt-md-5 mt-4">
+    @using (Html.BeginForm("Index", "Contact", FormMethod.Post))
+    {
+        <div class="twice-two">
+            <input type="text" class="form-control" name="Name" id="w3lName"  placeholder="İsminiz"
+                   required="">
+            <input type="email" class="form-control" name="Email" id="w3lSender" placeholder="E-mail"
+                   required="">
+        </div>
+        <div class="twice">
+            <input type="text" class="form-control" name="Subject" id="w3lSubject"
+                   placeholder="Konu Başlığı" required="">
+        </div>
+        <textarea name="Comment" class="form-control" id="w3lMessage" placeholder="Yorumunuz"
+                  required=""></textarea>
+        <div class="text-right">
+            <button type="submit" class="btn btn-secondary btn-style mt-4">Mesaj Gönder</button>
+        </div>
+    }
+</div>
