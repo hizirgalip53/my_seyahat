@@ -15,7 +15,7 @@ Bu projede aşağıdaki teknolojiler kullanılmıştır:
   
 ## Ekran Görüntüleri
 
-![1](https://github.com/hizirgalip53/My-Portfolio-/blob/main/pics/1.png?raw=true)
+![1](https://i.hizliresim.com/qptiwy5.png)
 
 ![2](https://github.com/hizirgalip53/My-Portfolio-/blob/main/pics/2.png?raw=true)
 
