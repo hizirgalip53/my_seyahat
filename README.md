@@ -15,7 +15,7 @@ Bu projede aşağıdaki teknolojiler kullanılmıştır:
   
 ## Ekran Görüntüleri
 
-![1](https://i.hizliresim.com/qptiwy5.png)
+![1](https://i.hizliresim.com/9t78ipc.png)
 
 ![2](https://i.hizliresim.com/qptiwy5.png)
 
